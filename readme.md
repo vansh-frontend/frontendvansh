@@ -2,11 +2,20 @@
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=700&lines=Frontend+%26+Web+Development;Building+in+Public;Sharing+Real+Code+Behind+Learning"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2200&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=Frontend+Developer+%7C+Tech+Creator;Building+in+Public;Real+Code+%E2%80%A2+Real+Learning+%E2%80%A2+Real+Growth"
 />
 
-<p style="color:#b9a7ff;">
-<i>Public code space · Real learning · Real implementation</i>
+<br/>
+
+<p>
+  <img src="https://img.shields.io/badge/Frontend-Developer-38BDF8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Building-In%20Public-A855F7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Web-Creator-22C55E?style=for-the-badge"/>
+</p>
+
+<p style="max-width:700px;color:#cbd5f5;">
+<i>A public code space where learning is transparent,<br/>
+progress is visible, and implementation comes first.</i>
 </p>
 
 </div>
@@ -14,26 +23,28 @@
 ---
 
 <!-- ================= ABOUT ================= -->
-<div style="border-left:4px solid #7f5af0;padding:18px 22px;margin-bottom:28px;">
+<div style="background:linear-gradient(135deg,#0f172a,#020617);border-radius:14px;padding:26px;border:1px solid #1e293b;">
 
 <h2>👋 About Me</h2>
 
 <p>
-I’m a frontend and web development learner focused on
-<b>building practical features</b>, understanding core concepts,
-and improving through consistent hands-on work.
+I’m a <b>frontend & web development learner</b> documenting my journey by
+<b>building real features</b>, breaking things, fixing them,
+and sharing everything in public.
 </p>
 
-<p>I believe real learning happens when you:</p>
+<p>I don’t believe in fake productivity or surface-level tutorials.</p>
+
+<p><b>Real learning happens when you:</b></p>
 
 <ul>
-  <li>build things yourself</li>
-  <li>understand how they work</li>
-  <li>share the process openly</li>
+  <li>build from scratch</li>
+  <li>understand what’s happening under the hood</li>
+  <li>share the process, not just the results</li>
 </ul>
 
 <p>
-This repository reflects that mindset.
+This repository is a mirror of that mindset.
 </p>
 
 </div>
@@ -41,28 +52,28 @@ This repository reflects that mindset.
 ---
 
 <!-- ================= PURPOSE ================= -->
-<div style="background:#0d1117;border:1px solid #30363d;padding:22px;border-radius:8px;margin-bottom:28px;">
+<div style="margin-top:28px;background:linear-gradient(135deg,#020617,#0b1020);border-radius:14px;padding:26px;border:1px solid #1e293b;">
 
-<h2>🎯 Purpose of This Repository</h2>
+<h2>🎯 Why This Repository Exists</h2>
 
 <p>
-This repository exists as a <b>central place for all the work I share publicly</b>.
+This repository is my <b>public workspace</b>.
 </p>
 
 <p>
-Instead of posting only visuals or snippets on social media,
-I wanted one place where:
+Social platforms show highlights.<br/>
+This repo shows the <b>actual code behind those highlights</b>.
 </p>
 
 <ul>
-  <li>the <b>complete code</b> lives</li>
-  <li>every post has real implementation behind it</li>
-  <li>anyone can access and learn from the same code I use</li>
+  <li>complete implementations live here</li>
+  <li>every post connects to real code</li>
+  <li>nothing is staged or fake</li>
 </ul>
 
 <p>
-This is not a single project repository.<br/>
-It’s a <b>growing workspace</b> that evolves as I keep building.
+This is not a single project.<br/>
+It’s a <b>living system</b> that grows as I grow.
 </p>
 
 </div>
@@ -70,23 +81,23 @@ It’s a <b>growing workspace</b> that evolves as I keep building.
 ---
 
 <!-- ================= WORK ================= -->
-<div style="border-left:4px solid #9d7bff;padding:18px 22px;margin-bottom:28px;">
+<div style="margin-top:28px;background:linear-gradient(135deg,#020617,#020617);border-left:5px solid #38BDF8;border-radius:12px;padding:26px;">
 
-<h2>📂 What I’m Going to Do Here</h2>
+<h2>📂 What You’ll Find Here</h2>
 
-<p>Here, I will continuously push:</p>
+<p>This repository will continuously include:</p>
 
 <ul>
   <li>frontend experiments</li>
-  <li>feature implementations</li>
+  <li>UI components & layouts</li>
   <li>authentication flows</li>
-  <li>UI logic and layouts</li>
-  <li>small but real web development examples</li>
+  <li>JavaScript logic breakdowns</li>
+  <li>small but production-style web features</li>
 </ul>
 
 <p>
-Everything added here is something I’ve
-<b>built, tested, and shared</b>.
+Everything pushed here is
+<b>built, tested, and shared intentionally</b>.
 </p>
 
 </div>
@@ -94,19 +105,20 @@ Everything added here is something I’ve
 ---
 
 <!-- ================= ACCESS ================= -->
-<div style="background:#0d1117;border:1px solid #30363d;padding:22px;border-radius:8px;margin-bottom:28px;">
+<div style="margin-top:28px;background:linear-gradient(135deg,#020617,#020617);border-radius:14px;padding:26px;border:1px solid #1e293b;">
 
-<h2>🔓 How You Can Access This Work</h2>
+<h2>🔓 How You Can Use This Repository</h2>
 
 <ul>
-  <li>This repository is <b>public</b></li>
-  <li>You can browse all files directly on GitHub</li>
-  <li>You can clone or download the code</li>
-  <li>You can use it for learning and reference</li>
+  <li>100% public & open</li>
+  <li>browse files directly on GitHub</li>
+  <li>clone or download the code</li>
+  <li>use it for learning & reference</li>
 </ul>
 
 <p>
-All the code shared in my posts will always be available here.
+If you saw a post on social media,<br/>
+this repository holds the <b>full implementation</b>.
 </p>
 
 </div>
@@ -114,27 +126,25 @@ All the code shared in my posts will always be available here.
 ---
 
 <!-- ================= SOCIAL ================= -->
-<div style="border-left:4px solid #7f5af0;padding:18px 22px;margin-bottom:28px;">
+<div style="margin-top:28px;background:linear-gradient(135deg,#020617,#020617);border-left:5px solid #A855F7;border-radius:12px;padding:26px;">
 
-<h2>🌐 Where I Share This Content</h2>
-
-<p>I actively post about this work and related learnings on:</p>
+<h2>🌐 Where I Share My Journey</h2>
 
 <h3>📷 Instagram</h3>
 <p>
-Short-form content, visuals, and quick frontend explanations<br/>
-👉 <a href="https://www.instagram.com/frontend.vansh">Instagram Profile</a>
+Visual breakdowns, short-form content, UI demos<br/>
+👉 <a href="https://www.instagram.com/frontend.vansh">instagram.com/frontend.vansh</a>
 </p>
 
 <h3>💼 LinkedIn</h3>
 <p>
-Detailed explanations, learnings, and professional updates<br/>
-👉 <a href="https://www.linkedin.com/in/vanshdhalor">LinkedIn Profile</a>
+Detailed learnings, professional insights, growth logs<br/>
+👉 <a href="https://www.linkedin.com/in/vanshdhalor">linkedin.com/in/vanshdhalor</a>
 </p>
 
 <p>
 If you came here from a post,
-this repository contains the <b>full implementation</b>.
+this is where the <b>real work lives</b>.
 </p>
 
 </div>
@@ -142,38 +152,34 @@ this repository contains the <b>full implementation</b>.
 ---
 
 <!-- ================= CONTACT ================= -->
-<div style="background:#0d1117;border:1px solid #30363d;padding:22px;border-radius:8px;margin-bottom:28px;">
+<div style="margin-top:28px;background:linear-gradient(135deg,#020617,#020617);border-radius:14px;padding:26px;border:1px solid #1e293b;">
 
-<h2>📬 How to Contact Me</h2>
+<h2>📬 Let’s Connect</h2>
 
-<p>If you want to:</p>
+<p>You can reach out if you want to:</p>
 
 <ul>
   <li>ask questions</li>
-  <li>share feedback</li>
-  <li>discuss frontend topics</li>
-  <li>or connect professionally</li>
+  <li>give feedback</li>
+  <li>discuss frontend & UI</li>
+  <li>connect professionally</li>
 </ul>
 
-<p>You can reach me via:</p>
-
-<ul>
-  <li>Instagram messages</li>
-  <li>LinkedIn messages</li>
-</ul>
-
-<p>I try to respond whenever possible.</p>
+<p>
+DMs are open on Instagram & LinkedIn.<br/>
+I reply whenever I can.
+</p>
 
 </div>
 
 ---
 
 <!-- ================= TECH ================= -->
-<div style="border-left:4px solid #9d7bff;padding:18px 22px;">
+<div style="margin-top:28px;background:linear-gradient(135deg,#020617,#020617);border-left:5px solid #22C55E;border-radius:12px;padding:26px;">
 
 <h2>🛠 Technical Focus</h2>
 
-<pre>
+<pre style="color:#e5e7eb;">
 HTML
 CSS
 JavaScript
@@ -181,4 +187,11 @@ Frontend Development
 Modern Web Practices
 </pre>
 
+</div>
+
+---
+
+<!-- ================= FOOTER ================= -->
+<div align="center" style="margin-top:40px;color:#94a3b8;">
+<i>Build. Learn. Share. Repeat.</i>
 </div>
