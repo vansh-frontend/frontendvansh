@@ -2,30 +2,17 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-
+<link rel="stylesheet" href="style.css">
 <style>
-  body{
-    display:flex;
-    flex-direction:column;
-    align-items:center;
-    justify-content:center;
-    height:80vh;
-    gap:10px;
-  }
-
   input{
     padding:10px;
     font-size:16px;
     border:2px solid #333;
+    border-radius:5px;
     outline:none;
+    transition: border 0.3s ease-in-out;
   }
-
-  /* invalid state */
-  input:invalid{
-    border:2px solid red;
-    animation: shake 0.3s ease-in-out 2;
-  }
-
+  
   @keyframes shake{
     0%   { transform: translateX(0); }
     25%  { transform: translateX(-3px); }
@@ -33,9 +20,13 @@
     75%  { transform: translateX(-3px); }
     100% { transform: translateX(0); }
   }
+  /* invalid state */
+input:invalid{
+  border:2px solid red;
+  animation: shake 0.3s ease-in-out 2;
+}
 </style>
 </head>
-
 <body>
   <h3>Enter only Numbers</h3>
   <input
